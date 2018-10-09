@@ -14,3 +14,4 @@
     1. Web game - farming
 
 ## Charity
+All money made from here to go to a charity like [OSMI](https://osmihelp.org/).
