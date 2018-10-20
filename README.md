@@ -8,10 +8,10 @@
 
 ## Projects
 
-1. Contributing to an Open Source project
-    1. [Octobox](https://github.com/octobox/octobox)
 1. Fun project, feels magical
     1. Web game - farming
+1. Contributing to an Open Source project
+    1. [Octobox](https://github.com/octobox/octobox)
 
 ## Charity
 All money made from here to go to a charity like [OSMI](https://osmihelp.org/).
