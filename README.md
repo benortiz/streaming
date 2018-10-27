@@ -1,4 +1,5 @@
 # Streaming
+I stream regularly on [twitch.tv/benortiz](https://twitch.tv/benortiz).
 
 ## Schedule
 
